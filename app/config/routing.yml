@@ -1,3 +1,0 @@
-app:
-    resource: "@MyQuizz/Controller/"
-    type:     annotation
